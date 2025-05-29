@@ -18,12 +18,12 @@ It allows customers to browse available spa services, make bookings, and manage 
 - View and manage appointments
 - Leave reviews
 
-###  Staff Features (Planned)
+###  Staff Features
 - View upcoming bookings
 - Add internal customer notes
 - Manage services and reviews
 
-### Admin Features (Future Scope)
+### Admin Features
 - Add/edit spa services
 - Manage users
 - View payments and reports
