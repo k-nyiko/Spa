@@ -46,9 +46,9 @@ It allows customers to browse available spa services, make bookings, and manage 
 🚧 Project is in active development. Backend features are being built out first, with the frontend to follow.
 
 ---
-🗒️ Notes
+NB
 
-> **ℹ Contributors listed on this repo show two users — both are my accounts.**  
+> ## Contributors listed on this repo show two users — both are my accounts.**  
 > I'm simply using a second account to separate **school projects** from **personal work**.
 
 
